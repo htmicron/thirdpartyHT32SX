@@ -1,4 +1,4 @@
-# DEVKIT FOR HT32SX
+# DEVKIT FOR HT32SX version 2.2
 
 Original repository: [here](https://github.com/disk91/HTMICRON-iMCP-devkit)
 
